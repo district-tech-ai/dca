@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dca.rotaractdistrict9216.org/sitemap.xml
